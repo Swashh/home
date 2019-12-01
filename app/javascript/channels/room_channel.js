@@ -10,7 +10,7 @@ $(function() {
 
         consumer.subscriptions.create(
             {
-                chanel: "RoomChannel",
+                channel: "RoomChannel",
                 room: room_id
             },
 
